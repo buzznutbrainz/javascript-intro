@@ -1,0 +1,1 @@
+secret.addEventListener('click',function)
