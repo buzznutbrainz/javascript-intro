@@ -1,1 +1,4 @@
-secret.addEventListener('click',function)
+secret.addEventListener('click',function(){
+
+    
+})
