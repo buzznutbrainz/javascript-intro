@@ -11,6 +11,7 @@ light_on.addEventListener('click',function(){
 })
 
 light_off.addEventListener("click",function(){
+    console.log("goodnight");
     document.getElementById("lightbulb").src="lightbulb_off.webp";
 
 })
